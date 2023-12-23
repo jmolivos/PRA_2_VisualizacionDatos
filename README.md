@@ -49,5 +49,5 @@ Las visualizaciones buscarán responder las siguientes preguntas:
 6. ¿Cómo varía la cantidad de personas en diferentes rangos de edad y áreas de conocimiento?
 
 ## Visualización de Datos
-Para la visualización de datos se utiliza la herramienta power BI desktop, el archivo "PRA_2 jmolivos_MigracionColombia.pbix" contiene el modelo y la información necesaria para acceder a las visualizaciones desarrolladas.
+Para acceder a la visualización de datos se debe hacer la descarga del archivo "PRA_2 jmolivos_MigracionColombia.pbix" que contiene el modelo y la información necesaria para acceder a las visualizaciones desarrolladas, luego utilizar la herramienta PowerBI Desktop para abrir dicho archivo.
 Adicionalmente, se anexa archivo de origen de datos: Colombianos_registrados_en_el_exterior.zip, en su interior se encuentra el archivo con el mismo nombre en formato csv.
