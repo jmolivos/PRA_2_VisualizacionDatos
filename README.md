@@ -47,3 +47,7 @@ Las visualizaciones buscarán responder las siguientes preguntas:
 4. ¿Cuáles son las áreas de conocimiento más comunes entre los migrantes, y existen diferencias de género?
 5. ¿Cómo se distribuyen los estados civiles de los migrantes colombianos en el extranjero, y hay variaciones significativas por género?
 6. ¿Cómo varía la cantidad de personas en diferentes rangos de edad y áreas de conocimiento?
+
+## Visualización de Datos
+Para la visualización de datos se utiliza la herramienta power BI desktop, el archivo "PRA_2 jmolivos_MigracionColombia.pbix" contiene el modelo y la información necesaria para acceder a las visualizaciones desarrolladas.
+Adicionalmente, se anexa archivo de origen de datos: Colombianos_registrados_en_el_exterior.zip, en su interior se encuentra el archivo con el mismo nombre en formato csv.
